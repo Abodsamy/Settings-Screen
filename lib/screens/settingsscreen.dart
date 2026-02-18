@@ -24,6 +24,7 @@ class SrtingsScreen extends StatelessWidget {
             ),
           )
         ],
+        elevation: 0,
         backgroundColor: const Color(AppColors.bg),
       ),
       backgroundColor: const Color(AppColors.bg),
